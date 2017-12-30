@@ -1,0 +1,27 @@
+{
+  "name": "json-trim",
+  "version": "1.0.0",
+  "description": "json trim",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FocusCare/json-trim.git"
+  },
+  "keywords": [
+    "json",
+    "trim"
+  ],
+  "author": "fc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FocusCare/json-trim/issues"
+  },
+  "homepage": "https://github.com/FocusCare/json-trim#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^4.1.0"
+  }
+}
